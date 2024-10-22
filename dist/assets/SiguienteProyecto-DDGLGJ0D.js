@@ -1,1 +1,0 @@
-import{_ as t,o as a,b as o,e as r}from"./index-DvTa06qd.js";const n={};function s(c,e){return a(),o("div",null,e[0]||(e[0]=[r("h1",{class:"header-title"},"Avanzar al Siguiente Proyecto",-1)]))}const l=t(n,[["render",s],["__scopeId","data-v-abb0b8ef"]]);export{l as default};
